@@ -2,8 +2,8 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "3f3930af",
+   "execution_count": 2,
+   "id": "bde68106",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -12,6 +12,14 @@
     "        self.prompt = prompt\n",
     "        self.answer = answer\n"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c10a267f",
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
